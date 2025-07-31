@@ -1,0 +1,41 @@
+*{
+    background-color:white;
+ 
+justify-content: center;
+}
+#image{
+    height: 100%;
+    width:25%;
+    border-radius: 50%;
+}
+#text{
+    font-family: cursive;
+   font-size:200%
+
+}
+#text{
+    text-align: right;
+}
+#skills{
+word-spacing: 5px;
+padding: 3%;
+color: midnightblue;
+background-color: azure;
+}
+
+
+.technical-skills{
+    background-color: azure;
+    color: midnightblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.current{
+    word-spacing: 5px;
+    padding: 3%;
+    color: midnightblue;
+    background-color: azure;
+    font-family: cursive;
+    font-size: larger;
+
+}
